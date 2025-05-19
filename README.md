@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm JAEWOOK LEE</h1>
-<h3 align="center">IT 개발 희망자</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghodome&label=Profile%20views&color=0e75b6&style=flat" alt="ghodome" /> </p>
 
